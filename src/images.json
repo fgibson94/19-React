@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "brown_sky",
+        "image": "./images/brown_sky.jpg"
+    },
+    {
+        "id": 2,
+        "name": "cloud_sky",
+        "image": "./images/cloud_sky.jpg"
+    },
+    {
+        "id": 3,
+        "name": "dark_sky",
+        "image": "./images/dark_sky.jpg"
+    },
+    {
+        "id": 4,
+        "name": "hill_sky",
+        "image": "./images/hill_sky.jpg"
+    },
+    {
+        "id": 5,
+        "name": "lake_sky",
+        "image": "./images/lake_sky.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ocean_sky",
+        "image": "./images/ocean_sky.jpg"
+    },
+    {
+        "id": 7,
+        "name": "purple_sky",
+        "image": "./images/purple_sky.jpg"
+    },
+    {
+        "id": 8,
+        "name": "sea_sky",
+        "image": "./images/sea_sky.jpg"
+    },
+    {
+        "id": 9,
+        "name": "rock_sky",
+        "image": "./images/rock_sky.jpg"
+    }
+]

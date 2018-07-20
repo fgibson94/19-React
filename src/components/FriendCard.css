@@ -1,0 +1,26 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  margin: 2rem;
+}
+
+.img-container {
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+  margin: 3px
+}
+img {
+  width: 30%;
+  margin: 3px;
+}
+.card > .select {
+  color: #000000;
+  top: -20px;
+  right: 5px;
+  cursor: crosshair;
+}
+
+.card > .select:hover, .card:hover {
+  background-color: gray;
+}
